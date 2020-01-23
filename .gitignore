@@ -1,0 +1,8 @@
+#Directoories
+/dist
+/.idea
+/.git
+/node_modules
+
+#Files
+package-lock.json
